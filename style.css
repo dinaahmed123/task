@@ -1,0 +1,73 @@
+body{
+    font-size: 20px; font-family: 'Noto Sans JP';
+}
+.navbar{
+    box-shadow:0 1px 2px  lightgoldenrodyellow;
+    background-color: #694D41;
+}
+
+.nav-link{
+    font-size: 1.3rem; 
+
+    font-weight: 400px;
+    margin-left: 10px;
+}
+
+
+
+header{
+    min-height: 100vh;
+    background-image:linear-gradient(hsla(0, 0%, 0%, 0.7),
+    hsla(0, 0%, 0%, 0.7) ),url(../images/pexels-photo-1928151.jpeg) ; 
+    background-position: center;
+    background-size: cover;
+}
+i{
+    font-size: 30px;
+}
+.dina{
+    padding-top: 260px;
+    font-family: 'Dancing Script';
+    font-size: 70px;
+}
+.reserv{
+    background-color: #EFEAEA;
+}
+hr{
+    width: 50px;
+    background-color:#C5884F;
+    border: 1px solid #C5884F;
+    margin: 0px auto 15px auto;
+}
+.btn{ 
+    background-color: #C5884F;
+    border-radius: 20px;
+}
+.coffee{
+    min-height: 60vh;
+    background-image:linear-gradient(hsla(0, 0%, 0%, 0.7),
+    hsla(0, 0%, 0%, 0.7) ),url(../images/pexels-photo-683039.jpeg) ; 
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 20px;
+}
+.icon{
+    padding-left: 660px;
+}
+
+  .din{
+      color: beige;
+  } 
+  .menu{
+      background-color: #F0F0F0;
+  }
+  .tele{
+      color: #C5884F;
+  }
+  .contact{
+      background-color: #EFEAEA;
+  }
+  footer{
+      background-color: #694D41;
+  }
